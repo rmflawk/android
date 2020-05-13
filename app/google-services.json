@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "77303276955",
+    "firebase_url": "https://kinspay-3184c.firebaseio.com",
+    "project_id": "kinspay-3184c",
+    "storage_bucket": "kinspay-3184c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77303276955:android:3b120f58fbd326b8402d3e",
+        "android_client_info": {
+          "package_name": "com.spinormedia.kinshealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77303276955-054bebadeqc8bbqedpo0gs99dpqt5s9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spinormedia.kinshealthcare",
+            "certificate_hash": "65c904e8e55d4ac8fafd83ea8fc3a48a64676d53"
+          }
+        },
+        {
+          "client_id": "77303276955-hjg3uep2i1dsesirbcp3jbjo6naf6atg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK46RiZkPAVPeN7ePS-crX6H5vQnyWGUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77303276955-hjg3uep2i1dsesirbcp3jbjo6naf6atg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77303276955-q0r3qfgd8jh5caa58ts4hcgik5dq67v2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spinormedia.kinshealthcare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77303276955:android:59de4072a862fc37402d3e",
+        "android_client_info": {
+          "package_name": "com.spinormedia.kinspay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77303276955-n5d61p42lk554dl5v4tj5dcgtfanl2ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spinormedia.kinspay",
+            "certificate_hash": "65c904e8e55d4ac8fafd83ea8fc3a48a64676d53"
+          }
+        },
+        {
+          "client_id": "77303276955-hjg3uep2i1dsesirbcp3jbjo6naf6atg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK46RiZkPAVPeN7ePS-crX6H5vQnyWGUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77303276955-hjg3uep2i1dsesirbcp3jbjo6naf6atg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77303276955-q0r3qfgd8jh5caa58ts4hcgik5dq67v2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spinormedia.kinshealthcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">킨즈헬스케어</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="naver_client_id">uDlGEptC0MEHrNe1t2xI</string>
+    <string name="naver_client_secret">CS734uYeLL</string>
+    <string name="naver_client_name">kinshealthcare</string>
+    <string name="kakao_app_key">078cb5a8d27288b63e7ee4df7262944e</string>
+    <string name="kakao_scheme">kakao078cb5a8d27288b63e7ee4df7262944e</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
